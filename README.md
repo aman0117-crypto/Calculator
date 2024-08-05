@@ -1,2 +1,2 @@
 # Calculator
-This is the basic calculator using Core Java.
+This is the basic calculator project using Core Java.
